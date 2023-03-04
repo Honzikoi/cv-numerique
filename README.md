@@ -69,5 +69,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+### Color Palette
 
 The Color Palette we are using is https://coolors.co/acb8ac-7ca6cb-3f668a-ffce1a-479f7d
