@@ -73,4 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 The Color Palette we are using is https://coolors.co/acb8ac-7ca6cb-3f668a-ffce1a-479f7d
 
-### ESGI Alumni
+### ESGI & ESME Alumni 
